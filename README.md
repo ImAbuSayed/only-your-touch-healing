@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-your-touch-healing/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Only Your Touch Healing](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-your-touch-healing/) |
+| **Get License** | [Get License For Only Your Touch Healing](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-your-touch-healing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers glowing when you pull me close
+> A quiet kind of magic that nobody knows
+> Your fingertips are tracing every hidden line
+> In this fading amber light, I know that you are mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
